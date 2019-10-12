@@ -1,6 +1,8 @@
 # Group Members
 Chris Nguyen, Hayley Jellison, Hazel DeSpain, Nathan Wong
 
+![TouristBanner](Resources/images/touriststock.jpg)
+
 # Project Proposal
 The idea for this project is comparing tourist count versus local population through the years 2011 - 2017. There is not one particular data set that has all the data that we are interested, so we had to curate and compile data from multiple sources into one database that had everything we wanted, following the ETL (extract, transform, load) procedural model.
 
