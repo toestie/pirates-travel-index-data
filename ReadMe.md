@@ -1,5 +1,5 @@
 # Group Members
-Chris Nguyen, Hayley Jellison, Hazel DeSpain, Nathan Wong
+Chris Nguyen, Hayley Jellison, Hazel Despain, Nathan Wong
 
 ![TouristBanner](./Resources/images/touriststock.jpeg)
 
