@@ -1,10 +1,13 @@
 # Group Members
-Chris Nguyen, Hayley Jellison, Hazel Despain, Nathan Wong
+* Chris Nguyen (Team Leader) : [@c-l-nguyen](https://github.com/c-l-nguyen)
+* Hayley Jellison : [@hayleyjellison](https://github.com/hayleyjellison)
+* Hazel Despain : [@hazeldespain](https://github.com/hazeldespain)
+* Nathan Wong (Git Master) : [@toestie](https://github.com/toestie)
 
 ![TouristBanner](./Resources/images/touriststock.jpeg)
 
 # Project Proposal
-The idea for this project is comparing tourist count versus local population through the years 2011 - 2017. There is not one particular data set that has all the data that we are interested, so we had to curate and compile data from multiple sources into one database that had everything we wanted, following the ETL (extract, transform, load) procedural model.
+The idea for this project is comparing tourist count versus local population count through the years 2011 - 2017. There is no one particular data set that has all the data that we are interested, so we will curate and compile data from multiple sources into one database that has everything we want by using ETL (extract, transform, load.
 
 ### Data Sources (Extract):
 * City Population (as gotten from CSVs on http://worldpopulationreview.com/)
