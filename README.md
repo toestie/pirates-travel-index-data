@@ -1,8 +1,8 @@
 # Group Members
-* Chris Nguyen (Team Leader) : [@c-l-nguyen](https://github.com/c-l-nguyen)
-* Hayley Jellison : [@hayleyjellison](https://github.com/hayleyjellison)
-* Hazel Despain : [@hazeldespain](https://github.com/hazeldespain)
-* Nathan Wong (Git Master) : [@toestie](https://github.com/toestie)
+* Chris Nguyen (Team Leader): [@c-l-nguyen](https://github.com/c-l-nguyen)
+* Hayley Jellison: [@hayleyjellison](https://github.com/hayleyjellison)
+* Hazel Despain: [@hazeldespain](https://github.com/hazeldespain)
+* Nathan Wong (Git Master): [@toestie](https://github.com/toestie)
 
 ![TouristBanner](./Resources/images/touriststock.jpeg)
 
