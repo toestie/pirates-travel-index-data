@@ -1,0 +1,8 @@
+http://worldpopulationreview.com/
+https://population.un.org/wup/Download/
+https://population.un.org/wup/Download/Files/WUP2018-F12-Cities_Over_300K.xls
+https://data.world/makeovermonday/2018w24-tourism-density-index/discuss/viz-review/g4ywinru
+https://data.worldbank.org/indicator/ST.INT.ARVL
+https://data.worldbank.org/indicator/ST.INT.DPRT
+https://data.worldbank.org/indicator/ST.INT.XPND.CD
+https://data.worldbank.org/indicator/ST.INT.RCPT.CD
